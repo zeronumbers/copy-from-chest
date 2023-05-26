@@ -1,5 +1,5 @@
 # Copy from chest
-Adds **server command** `copy-from-chest <x> <y> <z> <player> [once]`**.
+Adds **server command** `copy-from-chest <x> <y> <z> <player> [once]`.
 
 **Version:** 1.0.0
 **License:**: LGPL 2.1 or later

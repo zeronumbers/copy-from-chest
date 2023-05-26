@@ -1,8 +1,8 @@
 # Copy from chest
 Adds **server command** `copy-from-chest <x> <y> <z> <player> [once]`.
 
-**Version:** 1.0.0
-**License:**: LGPL 2.1 or later
+- **Version:** 1.0.0
+- **License:**: LGPL 2.1 or later
 
 Report bugs or request help at zrnmbrs@gmail.com
 

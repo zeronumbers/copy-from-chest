@@ -10,7 +10,7 @@ Report bugs or request help at zrnmbrs@gmail.com
 https://wiki.minetest.net/Server_commands#General_syntax
 
 # What the command does
-Copies items from chest at <x> <y> <z> to the <player>.
+Copies items from chest at `<x> <y> <z>` to the `<player>`.
 This command requires server priviliges.
 
 If `[once]` is provided:
